@@ -13,5 +13,5 @@
 
 **Legenda**
 
-- ⛂ Peça preta
+- ⛂ Peça preta / jeferson
 - ⛀ Peça branca/ Viviane
