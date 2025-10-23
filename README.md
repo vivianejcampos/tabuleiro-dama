@@ -14,4 +14,4 @@
 **Legenda**
 
 - ⛂ Peça preta
-- ⛀ Peça branca
+- ⛀ Peça branca/ Viviane
